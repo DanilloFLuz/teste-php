@@ -1,0 +1,23 @@
+body{
+    line-height: 1;
+    color: black;
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    font-size: 18px;
+}
+
+.input_padrao{
+    height: 25px;
+    width: 300px;
+}
+
+.botao_padrao{
+    height: 30px;
+    font-size: 17px;
+}
+.tamanho_img{
+    width: 160px;
+}
